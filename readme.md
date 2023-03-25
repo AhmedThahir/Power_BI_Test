@@ -1,6 +1,6 @@
 # Microsoft Power BI
 
-Tested Power BI on sample sales data
+Testing Power BI on sample sales data
 
 ## Steps
 
