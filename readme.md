@@ -1,6 +1,6 @@
 # Microsoft Power BI
 
-Tested Power BI with some sample sales data, using [Power BI Reference Video](youtu.be/TmhQCQr_DCA)
+Tested Power BI on [sample sales data](sales.xlsx), using [Power BI Reference Video](youtu.be/TmhQCQr_DCA)
 
 ## Steps
 
